@@ -12,7 +12,9 @@
 
 1. nodejs 18.15.0 LTS 설치 (https://nodejs.org/ko)
 
-2. 변환할 데이터를 ./01_input 폴더로 이동
+2. ./01_input 폴더 생성
+
+3. 변환할 데이터를 ./01_input 폴더로 이동
 
 ```
  ㄴ 01_input
@@ -22,7 +24,7 @@
         ㄴ 2301_LensAAMain_03(KOR)_BCR3.txt
 ```
 
-3. 프로그램 실행
+4. 프로그램 실행
 
 ```
 
@@ -32,4 +34,4 @@ $ npm run start
 
 ```
 
-4. 결과 파일 확인 ▶ ./02_output
+5. 결과 파일 확인 ▶ ./02_output
