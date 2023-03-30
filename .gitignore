@@ -4,6 +4,6 @@ package-lock.json
 
 dist/
 !01_input/
-01_input/*
+01_input/**
 !02_output/
-02_output/*
+02_output/**
